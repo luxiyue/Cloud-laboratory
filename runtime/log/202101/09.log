@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2021-01-09T09:46:59+08:00 ] 127.0.0.1 POST lzl.com/aAhePucNUI.php/index/login?url=%2FaAhePucNUI.php
+[ error ] [2002]SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+---------------------------------------------------------------
+[ 2021-01-09T09:47:12+08:00 ] 127.0.0.1 POST lzl.com/aAhePucNUI.php/index/login?url=%2FaAhePucNUI.php
+[ error ] [2002]SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+---------------------------------------------------------------
+[ 2021-01-09T09:47:30+08:00 ] 127.0.0.1 POST lzl.com/aAhePucNUI.php/index/login?url=%2FaAhePucNUI.php
+[ error ] [2002]SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
